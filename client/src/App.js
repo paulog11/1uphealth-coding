@@ -14,7 +14,7 @@ function Patients() {
   const [patientData, setPatientData] = useState([]);
 
   function handleGetPatients() {
-    fetch("http://localhost:8005/api/getAllPatients", {
+    fetch("http://localhost:8000/api/getAllPatients", {
     })
     .then(res => res.json())
     .then(
