@@ -1,9 +1,11 @@
 # 1uphealth-coding
 ### Welcome to Paulo's solution for the 1Up Health coding challenge.
-### To begin, clone this repository and then go to your node package manager app (for mac open terminal and navigate to the cloned repo)
-### And run `npm install`. After it completes, navigate to the client/ directory and run `npm install` again. 
-### Then, run `npm start` on the root directory, and similarly in the client/ directory. 
-### Then open your browser to `localhost:3000` to start the application
+### To begin, 
+#### 1. clone this repository and then go to your node package manager app (for mac open terminal and navigate to the cloned repo)
+#### 2. run `npm install` in the root directory and it should install stuff. After installations complete.. 
+#### 3. run `npm start`. It should say `Server running at http://localhost:8000/`. Leave this running in this terminal.
+#### 4. Open another terminal. Navigate to the client/ directory and run `npm install`. After installations complete..
+#### 5. run `npm start`. It should compile the react app and automatically open a browser window to localhost:3000. If automation doesn't happen, you can open a browser window and go to localhost:3000.
 
 ## Here is what the page should look like
 ![alt text] (https://raw.githubusercontent.com/paulog11/1uphealth-coding/develop/Screen%20Shot%202021-04-26%20at%205.01.55%20PM.png)
